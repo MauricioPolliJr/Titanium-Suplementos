@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titanium Suplementos</title>
+    <link rel="stylesheet" href="src/style.css">
+</head>
+
+<body>
+
+    <button id="botao-carrinho" onclick="alternarCarrinho()">
+        <img src="https://media.istockphoto.com/id/1206806317/pt/vetorial/shopping-cart-icon-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=cl3NPzmnu0pRmaRGndYIejbHGe-atORf0JDjzmhX8Z8="
+            alt="Carrinho">
+        <span id="contador">0</span>
+    </button>
+
+    <aside id="painel-carrinho" class="escondido">
+        <h2>Seu carrinho</h2>
+        <div id="carrinho"></div>
+        <p>Total: <strong id="total">R$ 0,00</strong></p>
+    </aside>
+
+    <header>
+        <h1>Titanium Suplementos</h1>
+        <h2>Alimente sua evolução</h2>
+    </header>
+
+    <div class="faixa">
+    <div class="faixa-conteudo">
+        <span>OFERTA EXCLUSIVA | CREATINA 500G | R$37.91</span>
+        <span>OFERTA EXCLUSIVA | CREATINA 500G | R$37.91</span>
+        <span>OFERTA EXCLUSIVA | CREATINA 500G | R$37.91</span>
+        <span>OFERTA EXCLUSIVA | CREATINA 500G | R$37.91</span>
+    </div>
+</div>
+
+    <main>
+        <div class="pesquisa">
+            <h2>Pesquisar no catálogo:</h2>
+            <input type="text" id="pesquisa" placeholder="Digite o nome do produto...">
+        </div>
+
+        <h2 class="titulo">Catálogo de produtos</h2>
+
+        <div id="produtos" class="produtos">
+
+        </div>
+    </main>
+
+
+
+    <script src="src/script.js"></script>
+
+</body>
+
+</html>

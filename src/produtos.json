@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "nome": "Whey Max Titanium 100% ",
+        "categoria": "Whey Protein",
+        "descricao": "Whey Protein Max Titanium 100% Whey Chocolate 900g",
+        "preco": 89.90,
+        "imagem": "https://drogariasaopaulocentraldesp.com/wp-content/uploads/2026/08/3515016.webp"
+    },
+    {
+        "id": 2,
+        "nome": "Whey Growth Concetrado",
+        "categoria": "Whey Protein",
+        "descricao": "Whey Protein Growth Concentrado 1KG.",
+        "preco": 199.90,
+        "imagem": "https://www.gsuplementos.com.br/upload/produto/imagem/top-whey-protein-concentrado-1kg-growth-supplements-17.webp"
+    },
+    {
+        "id": 3,
+        "nome": "Whey Integralmedica 100% Pure Whey",
+        "categoria": "Whey Protein",
+        "descricao": "Whey Protein Integralmedica 100% Pure Whey 900g.",
+        "preco": 71.59,
+        "imagem": "https://drogariasaopaulocentraldesp.com/wp-content/uploads/2026/08/3503893.webp"
+    },
+    {
+        "id": 4,
+        "nome": "Creatina Integralmédica 300g",
+        "categoria": "Creatina",
+        "descricao": "Creatina Integralmedica 300g 100% Pura Hardcore Pó",
+        "preco": 59.90,
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_864730-MLB106665818939_022026-F-creatina-integralmedica-300g-creatine-100-pura-hardcore-po.webp"
+    },
+    {
+        "id": 5,
+        "nome": "Creatina Soldiers Monoidratada",
+        "categoria": "Creatina",
+        "descricao": "Creatina Monohidratada 100% Pura - 500g",
+        "preco": 37.91,
+        "imagem": "https://soldiersnutrition.com.br/cdn/shop/files/Creatina_500g.png?v=1786724940&width=600"
+    },
+    {  
+        "id": 6,
+        "nome": "Pré Treino Horus 150g",
+        "categoria": "Pre Treino",
+        "descricao": "Pré Treino Horus 150g - Sabor Frutas Vermelhas",
+        "preco": 44.90,
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_941850-MLA112396193253_052026-F.webp"   
+    },
+    {
+        "id": 7,
+        "nome": "Pré Treino Integralmedica",
+        "categoria": "Pre Treino",
+        "descricao": "Pré Treino Huger Integralmedica 320g - Sabor Maça",
+        "preco": 90.00,
+        "imagem": "https://cdn.awsli.com.br/426/426927/produto/401183195/1a810a07630bf9400eb691cb35c81c65-rmjrpjwemw.png"
+    }
+
+
+
+]
