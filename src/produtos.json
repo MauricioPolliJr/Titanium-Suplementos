@@ -53,8 +53,33 @@
         "categoria": "Pre Treino",
         "descricao": "Pré Treino Huger Integralmedica 320g - Sabor Maça",
         "preco": 90.00,
-        "imagem": "https://cdn.awsli.com.br/426/426927/produto/401183195/1a810a07630bf9400eb691cb35c81c65-rmjrpjwemw.png"
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_710573-MLA99853924399_112025-F.webp"
+    },
+    {
+        "id": 8,
+        "nome": "BCAA Integralmedica 2044mg",
+        "categoria": "BCAA",
+        "descricao": "BCAA Integralmedica 2044mg 90 cápsulas",
+        "preco": 69.90,
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_888128-MLA101186208718_122025-F.webp"
+    },
+    {
+        "id": 9,
+        "nome": "L-Glutamina Growth",
+        "categoria": "Glutamina",
+        "descricao": "L-Glutamina 250g Growth Supplements",
+        "preco": 79.90,
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_728651-MLA106461309532_022026-F.webp"
+    },
+    {
+        "id": 10,
+        "nome": "Glutamina Integralmedica",
+        "categoria": "Glutamina",
+        "descricao": "Glutamina 300g Isolates - Integral Médica - Original",
+        "preco": 54.90,
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_666508-MLB113924416850_072026-F-glutamina-300g-isolates--integral-medica--original.webp"
     }
+
 
 
 

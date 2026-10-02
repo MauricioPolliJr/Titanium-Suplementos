@@ -144,6 +144,9 @@ main {
 .titulo {
     font-size: 32px;
     margin-bottom: 20px;
+    justify-content: center;
+    text-align: center;
+    
 }
 
 .produtos {
@@ -151,6 +154,7 @@ main {
     gap: 15px;
     width: 100%;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .produto {
@@ -183,9 +187,19 @@ main {
 }
 
 .preco {
-    color: #0b0433;
+    color: #f5f5f5;
     font-size: 20px;
     font-weight: bold;
+}
+
+button {
+    background-color: #0a1f44;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
 }
 
 @media (max-width: 800px) {
@@ -203,4 +217,12 @@ main {
     .produto {
         width: 100%;
     }
+}
+
+footer {
+    background-color: #660707;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
 }
